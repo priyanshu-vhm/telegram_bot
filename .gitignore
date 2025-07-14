@@ -1,0 +1,4 @@
+vendor/
+phpmailer/
+*.txt
+config.php/
