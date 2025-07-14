@@ -538,7 +538,6 @@
         // saveSession($session_file, $session);
     }
 
-    //app mail passowrd :- sjgx edik vosg cyrd
 
     // === UTILITY FUNCTIONS ===
 
