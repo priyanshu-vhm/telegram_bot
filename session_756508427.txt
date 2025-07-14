@@ -1,0 +1,32 @@
+{
+    "data": {
+        "update_id": 721553511,
+        "message": {
+            "message_id": 1546,
+            "from": {
+                "id": 756508427,
+                "is_bot": false,
+                "first_name": "Krunal",
+                "last_name": "Gohel",
+                "username": "Krunal2021",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 756508427,
+                "first_name": "Krunal",
+                "last_name": "Gohel",
+                "username": "Krunal2021",
+                "type": "private"
+            },
+            "date": 1752471990,
+            "text": "Hy"
+        }
+    },
+    "first_name": "Krunal",
+    "last_name": "Gohel",
+    "username": "Krunal2021",
+    "telegram_id": 756508427,
+    "step": "awaiting_account",
+    "email": "krunal77gohel@gmail.com",
+    "verification_code": 237339
+}
